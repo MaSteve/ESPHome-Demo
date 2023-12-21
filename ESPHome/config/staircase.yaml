@@ -1,0 +1,6 @@
+substitutions:
+  snake_node_name: "staircase"
+  node_name: "Staircase"
+
+<<: !include switch_template.yaml
+
